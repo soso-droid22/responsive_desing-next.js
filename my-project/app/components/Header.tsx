@@ -10,10 +10,10 @@ const Header = () => {
             <h1 className="relative left-[40px] text-3xl font-bold">Travlog</h1>
           </div>
           <div className='relative right-[214px]'>
-            <img src="/vector.svg" alt="logo" className="w-8 h-8" />
+            <img src="./vector.svg" alt="logo"/>
           </div>
           <div>
-            <img src="/hamburger.svg" alt="hamburger" />
+            <img src="./hamburger.svg" alt="hamburger" />
           </div>
         </div>
       </nav>

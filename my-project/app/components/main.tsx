@@ -187,7 +187,7 @@ const main = () => {
       <div className='website__icons'>
         <div className='relative   lg:left-[10rem] 2xl:bottom-[50rem] 2xl:left-[0rem]  xl:bottom-[50rem] xl:left-[12.5rem]'>
           <img className='relative hidden xl:block 2xl:block bottom-[750px] lg:bottom-[845px] left-7 lg:w-[700px] 2xl:w-[1184px] 2xl:h-[160px] ' 
-          src="./frame 85 (1).svg" alt="icons" />
+          src="./Frame 85 (3).svg" alt="icons" />
           
           <img  className='relative xl:hidden 2xl:hidden bottom-[750px]  left-7 lg:bottom-[845px] lg:w-[700px] '  
           src="./Frame 85 (2).svg" alt="icons" />

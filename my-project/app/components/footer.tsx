@@ -10,7 +10,7 @@ const Footer = () => {
             <span className="relative top-[40px] left-[60px] text-3xl font-bold ">Travlog</span>
           </div>
           <div className='relative lg:bottom-8'>
-            <img className='relative left-[14px]' src="./vector.svg" alt="logo"/>
+            <img className='relative left-[14px]' src="./Vector (2).svg" alt="logo"/>
           </div>
         </div>
         
